@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on both R and Python
 - 📫 How to reach me:
 - https://linktr.ee/swmdpodcast
-
