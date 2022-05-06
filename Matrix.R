@@ -54,7 +54,7 @@ openxlsx::write.xlsx(
   asTable = T
 )
 mat_test <- openxlsx::read.xlsx(
-  "c:\\users\\swmd\\documents\\pyproject\\Matrix.xlsx",
+  "c:\\users\\~\\documents\\pyproject\\Matrix.xlsx",
   skipEmptyRows = T, skipEmptyCols = T
 )
 View(mat_test)
