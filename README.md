@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on both R and Python
 - 📫 How to reach me:
-- https://linktr.ee/swmdpodcast
+- https://linktr.ee/swmd
